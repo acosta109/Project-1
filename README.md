@@ -19,3 +19,5 @@ The questions we explored are as follows:
 4. What is the statistical relationship for the percent of the population who listen to music during work hours and self-reported levels of anxiety?
 5. What’s the relationship between generations, listening to music, and the self reported level of anxiety, insomnia, and OCD?
 6. What’s the relationship between the bpm of music and the self reported level of mental health illness?
+7. Is there any relationship between the favorite genres of the respondents and mental health conditions scale within different segments? 
+8. Does music help improve or worsen mental health conditions across different segments?
