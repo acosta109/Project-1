@@ -18,6 +18,11 @@ The questions we explored are as follows:
 3. Is there any relationship between Rock cusic, Metal music, and Classical music and self-reported levels of mental illness? 
 4. What is the statistical relationship for the percent of the population who listen to music during work hours and self-reported levels of anxiety?
 5. What’s the relationship between generations, listening to music, and the self reported level of anxiety, insomnia, and OCD?
+  We can observe from the data that the young adults and adults suffer greater levels of anxiety and depression compared to teenagers. This analysis makes sense in the context that adults may have more stressors such as work, school, billings, healthcare, etc. It makes sense for teenagers to also suffer from high levels of anxiety, but having fewer responsiblities while at school-age. For further analysis, I'd want to look at how music impacts the level of anxiety and depression while performing specific tasks. If someone listens to music while doing school work, what's their self-reported severity of mental illness during those times. Doing this could provide more insight on how music impacts these mental illnesses.
 6. What’s the relationship between the bpm of music and the self reported level of mental health illness?
+  From our analysis, there seems to be no statistical relationship between BPM and self reported levels of mental illness. We can see higher levels of anxiety and depression all at tempos, but that also reflects our analysis in the previous question. We see high levels of anxiety and depression compared to insomnia and OCD. There could be little information to be gatheedr from future analysis. However, if we want to evaluate tempo, we could look at specific favorite songs or if people have prefered songs while expereince higher levels of mental illness. From this, we could potentially see if there is a relationship between specific instances of high mental illness and music. 
 7. Is there any relationship between the favorite genres of the respondents and mental health conditions scale within different segments? 
 8. Does music help improve or worsen mental health conditions across different segments?
+
+
+Our analysis and final outputs can be found in the PowerPoint presentation and Output folder respectively.
