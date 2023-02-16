@@ -8,7 +8,7 @@ Thus, our group chose to frame our project and mindset as a research project. Fo
 a series of evalutions to best understand our population and its relationship to mental health. Most importantly, for our final analysis, we're thinking
 about how this data will shape the next steps in our research. 
 
-e.g. What other questions would we want to ask to get a better understanding of a popualation? What data seems to have no statistical significnce and is it 
+e.g. What other questions would we want to ask to get a better understanding of a population? What data seems to have no statistical significnce and is it 
 worth further inquiry? 
 
 The questions we explored are as follows: 
