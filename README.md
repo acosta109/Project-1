@@ -22,7 +22,14 @@ The questions we explored are as follows:
 6. What’s the relationship between the bpm of music and the self reported level of mental health illness?
   From our analysis, there seems to be no statistical relationship between BPM and self reported levels of mental illness. We can see higher levels of anxiety and depression all at tempos, but that also reflects our analysis in the previous question. We see high levels of anxiety and depression compared to insomnia and OCD. There could be little information to be gatheedr from future analysis. However, if we want to evaluate tempo, we could look at specific favorite songs or if people have prefered songs while expereince higher levels of mental illness. From this, we could potentially see if there is a relationship between specific instances of high mental illness and music. 
 7. Is there any relationship between the favorite genres of the respondents and mental health conditions scale within different segments? 
+   - Spotify is the most preferred choice accross the age groups with You tube being the next choice. Free music is preferred.
+   - Rock is ranked as top fav genre across the age groups. Pop is ranked as second favorite for teenage and young adults but adults prefer metal music. 
+     Amongst teenagers K-pop is quickly catching up along with Metal . Apart from Rock and Metal, adults have a diverese preference of music. 
+   - Rock, Pop and Metal again is the top choice by this micro segments. People who have Low mental health scale are listening to diversified range of music
 8. Does music help improve or worsen mental health conditions across different segments?
+  Music definitely helps across all segments to improve their mental health
+  Further more recurring data with respect to these respondents music listening behaviors and their mental health scale at that point will help us to understand 
+  which mix of genres are helpful to improve their mental health condition 
 
 
 Our analysis and final outputs can be found in the PowerPoint presentation and Output folder respectively.
